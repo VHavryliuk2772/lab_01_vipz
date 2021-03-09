@@ -1,0 +1,12 @@
+Anton Karaben "Bla_bla" 1922 1022 1000.100000
+Jack Toronto "My_story" 1911 1002 999.990000
+Adolf Hitler "Mein_Kampf" 1944 300 450.990000
+Dan Brown "WWE" 1944 300 450.000000
+Stephen King "It" 1985 1500 150.000000
+Taras Tuzak "Atlant" 1969 400 200.000000
+Max Mad "The_A" 1977 123 348.000000
+Aleksa Schwarz "Water" 1998 228 50.000000
+Marcus Zuzak "Book_thief" 1969 400 149.990000
+Stan Perm "They" 1985 1500 159.000000
+Vitalii Havryliuk "Sad" 1876 123 123.000000
+Aleksa Grey "Cold" 1945 228 77.990000
